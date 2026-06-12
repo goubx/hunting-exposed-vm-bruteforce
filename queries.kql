@@ -1,7 +1,7 @@
 // ============================================================
 // Hunting Brute Force Attempts on an Internet-Exposed VM
 // Platform: Microsoft Defender for Endpoint (Advanced Hunting)
-// Note: hostname and account name sanitized. Replace placeholders
+   Note: hostname and account name sanitized. Replace placeholders
 //       with your real values when running.
 // ============================================================
 
